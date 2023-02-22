@@ -4,5 +4,10 @@
     padding: 0;
 }
 header{
-    background-color: rgb(65, 65, 145);
+    background-color: rgb(231, 191, 80);
+}
+div{
+    background-color: red;
+    width: 100px;
+    height: 100px;
 }
